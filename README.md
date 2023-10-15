@@ -2,6 +2,8 @@
 
 A project by Lina Andersson & Diana Undén
 
+Link to deployed version: https://starlit-moxie-f38998.netlify.app
+
 **Requirements**
 
  ✓ You should fetch data from the API using `fetch()` in JavaScript
